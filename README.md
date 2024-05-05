@@ -41,3 +41,5 @@ Para obter mais informações e recursos, consulte a documentação oficial do C
 ## Meu certificado
 
 ![Captura de tela 2024-05-04 140433](https://github.com/leodatadev/cypress-express-mark/assets/141060396/5c4a52ee-6141-453f-9664-71c98589c7e9)
+
+URL do certificado: https://www.udemy.com/certificate/UC-c85df226-cb59-44f0-bcaf-8840f6557f5e/
